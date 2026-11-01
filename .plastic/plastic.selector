@@ -1,4 +1,3 @@
 repository "My project/My project@18968525190204@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main"
