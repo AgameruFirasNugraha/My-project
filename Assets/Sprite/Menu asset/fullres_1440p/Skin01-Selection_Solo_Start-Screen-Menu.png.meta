@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: ea6994e163dc4644b96e57a0821b38c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3736148981564594775
+    second: Skin01-Selection_Solo_Start-Screen-Menu_0
+  - first:
+      213: -1450045847086545238
+    second: Skin01-Selection_Solo_Start-Screen-Menu_1
+  - first:
+      213: 2576810532579511269
+    second: Skin01-Selection_Solo_Start-Screen-Menu_2
+  - first:
+      213: 1749727874010923998
+    second: Skin01-Selection_Solo_Start-Screen-Menu_3
+  - first:
+      213: 2395241801655099751
+    second: Skin01-Selection_Solo_Start-Screen-Menu_4
+  - first:
+      213: 2401583060829168268
+    second: Skin01-Selection_Solo_Start-Screen-Menu_5
+  - first:
+      213: -2025594275488044308
+    second: Skin01-Selection_Solo_Start-Screen-Menu_6
+  - first:
+      213: -2652517856535205781
+    second: Skin01-Selection_Solo_Start-Screen-Menu_7
+  - first:
+      213: -702543721284668405
+    second: Skin01-Selection_Solo_Start-Screen-Menu_8
+  - first:
+      213: 3374405764540705141
+    second: Skin01-Selection_Solo_Start-Screen-Menu_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skin01-Selection_Solo_Start-Screen-Menu_0
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 917
+        width: 152
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5a7e5db48862cc0800000000000000
+      internalID: -3736148981564594775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Selection_Solo_Start-Screen-Menu_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 893
+        width: 464
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa640681cf660ebe0800000000000000
+      internalID: -1450045847086545238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Selection_Solo_Start-Screen-Menu_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 749
+        width: 146
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb03efd68ba2c320800000000000000
+      internalID: 2576810532579511269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Selection_Solo_Start-Screen-Menu_3
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 725
+        width: 464
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed345002b38484810800000000000000
+      internalID: 1749727874010923998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Selection_Solo_Start-Screen-Menu_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 581
+        width: 152
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761a1d26abb9d3120800000000000000
+      internalID: 2395241801655099751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Selection_Solo_Start-Screen-Menu_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 557
+        width: 338
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c826157d113245120800000000000000
+      internalID: 2401583060829168268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Selection_Solo_Start-Screen-Menu_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 413
+        width: 146
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea687e0db4a3e3e0800000000000000
+      internalID: -2025594275488044308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Selection_Solo_Start-Screen-Menu_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 413
+        width: 290
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68a6d8201d503bd0800000000000000
+      internalID: -2652517856535205781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Selection_Solo_Start-Screen-Menu_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 245
+        width: 152
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0475ad25301046f0800000000000000
+      internalID: -702543721284668405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Selection_Solo_Start-Screen-Menu_9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 221
+        width: 428
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579aa7b1a2c44de20800000000000000
+      internalID: 3374405764540705141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skin01-Selection_Solo_Start-Screen-Menu_0: -3736148981564594775
+      Skin01-Selection_Solo_Start-Screen-Menu_1: -1450045847086545238
+      Skin01-Selection_Solo_Start-Screen-Menu_2: 2576810532579511269
+      Skin01-Selection_Solo_Start-Screen-Menu_3: 1749727874010923998
+      Skin01-Selection_Solo_Start-Screen-Menu_4: 2395241801655099751
+      Skin01-Selection_Solo_Start-Screen-Menu_5: 2401583060829168268
+      Skin01-Selection_Solo_Start-Screen-Menu_6: -2025594275488044308
+      Skin01-Selection_Solo_Start-Screen-Menu_7: -2652517856535205781
+      Skin01-Selection_Solo_Start-Screen-Menu_8: -702543721284668405
+      Skin01-Selection_Solo_Start-Screen-Menu_9: 3374405764540705141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 3df8907c30ae47d4b805e6a13bd3aae0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5162453058372611493
+    second: Skin04-Pause-Options_0
+  - first:
+      213: -457116583728295459
+    second: Skin04-Pause-Options_1
+  - first:
+      213: -5001888351732546527
+    second: Skin04-Pause-Options_2
+  - first:
+      213: -2312227015252947968
+    second: Skin04-Pause-Options_3
+  - first:
+      213: 6178746555598062153
+    second: Skin04-Pause-Options_4
+  - first:
+      213: 373956343573006489
+    second: Skin04-Pause-Options_5
+  - first:
+      213: 781677276308702209
+    second: Skin04-Pause-Options_6
+  - first:
+      213: 2869156338992327478
+    second: Skin04-Pause-Options_7
+  - first:
+      213: -4606411272428356223
+    second: Skin04-Pause-Options_8
+  - first:
+      213: 2011176148201619286
+    second: Skin04-Pause-Options_9
+  - first:
+      213: -5631123107496935394
+    second: Skin04-Pause-Options_10
+  - first:
+      213: -5302453161552489879
+    second: Skin04-Pause-Options_11
+  - first:
+      213: -6933597243185706604
+    second: Skin04-Pause-Options_12
+  - first:
+      213: 3992490001646007707
+    second: Skin04-Pause-Options_13
+  - first:
+      213: 8667093886215654227
+    second: Skin04-Pause-Options_14
+  - first:
+      213: -8498035599766257011
+    second: Skin04-Pause-Options_15
+  - first:
+      213: 1856135659776784203
+    second: Skin04-Pause-Options_16
+  - first:
+      213: -3024754685897042037
+    second: Skin04-Pause-Options_17
+  - first:
+      213: -1244925407575997131
+    second: Skin04-Pause-Options_18
+  - first:
+      213: 3763193697841642412
+    second: Skin04-Pause-Options_19
+  - first:
+      213: 799081606399377122
+    second: Skin04-Pause-Options_20
+  - first:
+      213: -2528369331980072986
+    second: Skin04-Pause-Options_21
+  - first:
+      213: -3955117081476516598
+    second: Skin04-Pause-Options_22
+  - first:
+      213: 8472466419165938872
+    second: Skin04-Pause-Options_23
+  - first:
+      213: -8136153916281934234
+    second: Skin04-Pause-Options_24
+  - first:
+      213: 4161535349374966207
+    second: Skin04-Pause-Options_25
+  - first:
+      213: -698237003441760300
+    second: Skin04-Pause-Options_26
+  - first:
+      213: 3192259897557665976
+    second: Skin04-Pause-Options_27
+  - first:
+      213: -1184941276129882955
+    second: Skin04-Pause-Options_28
+  - first:
+      213: 1347801508881743504
+    second: Skin04-Pause-Options_29
+  - first:
+      213: 7237712603202001960
+    second: Skin04-Pause-Options_30
+  - first:
+      213: -9200944620029342360
+    second: Skin04-Pause-Options_31
+  - first:
+      213: -890240726454206905
+    second: Skin04-Pause-Options_32
+  - first:
+      213: 347382839833636860
+    second: Skin04-Pause-Options_33
+  - first:
+      213: -3448125606550590317
+    second: Skin04-Pause-Options_34
+  - first:
+      213: 5843908597436981619
+    second: Skin04-Pause-Options_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 216
+        width: 67
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5252169b484b58b0800000000000000
+      internalID: -5162453058372611493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd15fe593eef7a9f0800000000000000
+      internalID: -457116583728295459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 154
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12441d49b09b59ab0800000000000000
+      internalID: -5001888351732546527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 154
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c49c3c7c159efd0800000000000000
+      internalID: -2312227015252947968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 154
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942479381415fb550800000000000000
+      internalID: 6178746555598062153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 154
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9984c2c205f803500800000000000000
+      internalID: 373956343573006489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 154
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104006f575319da00800000000000000
+      internalID: 781677276308702209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_7
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 154
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ba2b62d7a41d720800000000000000
+      internalID: 2869156338992327478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d7d818a5db210c0800000000000000
+      internalID: -4606411272428356223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 154
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fbb461d0229eb10800000000000000
+      internalID: 2011176148201619286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 154
+        width: 98
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10c6236e5b3ad1b0800000000000000
+      internalID: -5631123107496935394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 126
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962548371f6e966b0800000000000000
+      internalID: -5302453161552489879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 126
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499c9480b0ae6cf90800000000000000
+      internalID: -6933597243185706604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 126
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95b86dd08c286730800000000000000
+      internalID: 3992490001646007707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 126
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b08d228f3b74870800000000000000
+      internalID: 8667093886215654227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 126
+        width: 98
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d820f4385a9e01a80800000000000000
+      internalID: -8498035599766257011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 98
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b473eef5c8152c910800000000000000
+      internalID: 1856135659776784203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 98
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87986693a9e506d0800000000000000
+      internalID: -3024754685897042037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 98
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535039d00f229bee0800000000000000
+      internalID: -1244925407575997131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 98
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabf6dcdabc893430800000000000000
+      internalID: 3763193697841642412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 98
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eebbffbc78e61b00800000000000000
+      internalID: 799081606399377122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 98
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7065a0d7d69ecd0800000000000000
+      internalID: -2528369331980072986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 98
+        width: 98
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05338138f99c19c0800000000000000
+      internalID: -3955117081476516598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_23
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 70
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4cfc5b15f349570800000000000000
+      internalID: 8472466419165938872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 70
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66eac1ece13961f80800000000000000
+      internalID: -8136153916281934234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_25
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 70
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9d9bbf95eb0c930800000000000000
+      internalID: 4161535349374966207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_26
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 70
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d712d0152d5f46f0800000000000000
+      internalID: -698237003441760300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 42
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b846a8a67f2d4c20800000000000000
+      internalID: 3192259897557665976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 42
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc849cff2e3e8fe0800000000000000
+      internalID: -1184941276129882955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_29
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 42
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eb1a4d45a54b210800000000000000
+      internalID: 1347801508881743504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 40
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c193cf345817460800000000000000
+      internalID: 7237712603202001960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 42
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d0c15ed9daf4080800000000000000
+      internalID: -9200944620029342360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 41
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e7c17a6ca35a3f0800000000000000
+      internalID: -890240726454206905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_33
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 42
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffa9513ad622d400800000000000000
+      internalID: 347382839833636860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_34
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 40
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39caf90a70cc520d0800000000000000
+      internalID: -3448125606550590317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin04-Pause-Options_35
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371251238ebb91150800000000000000
+      internalID: 5843908597436981619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skin04-Pause-Options_0: -5162453058372611493
+      Skin04-Pause-Options_1: -457116583728295459
+      Skin04-Pause-Options_10: -5631123107496935394
+      Skin04-Pause-Options_11: -5302453161552489879
+      Skin04-Pause-Options_12: -6933597243185706604
+      Skin04-Pause-Options_13: 3992490001646007707
+      Skin04-Pause-Options_14: 8667093886215654227
+      Skin04-Pause-Options_15: -8498035599766257011
+      Skin04-Pause-Options_16: 1856135659776784203
+      Skin04-Pause-Options_17: -3024754685897042037
+      Skin04-Pause-Options_18: -1244925407575997131
+      Skin04-Pause-Options_19: 3763193697841642412
+      Skin04-Pause-Options_2: -5001888351732546527
+      Skin04-Pause-Options_20: 799081606399377122
+      Skin04-Pause-Options_21: -2528369331980072986
+      Skin04-Pause-Options_22: -3955117081476516598
+      Skin04-Pause-Options_23: 8472466419165938872
+      Skin04-Pause-Options_24: -8136153916281934234
+      Skin04-Pause-Options_25: 4161535349374966207
+      Skin04-Pause-Options_26: -698237003441760300
+      Skin04-Pause-Options_27: 3192259897557665976
+      Skin04-Pause-Options_28: -1184941276129882955
+      Skin04-Pause-Options_29: 1347801508881743504
+      Skin04-Pause-Options_3: -2312227015252947968
+      Skin04-Pause-Options_30: 7237712603202001960
+      Skin04-Pause-Options_31: -9200944620029342360
+      Skin04-Pause-Options_32: -890240726454206905
+      Skin04-Pause-Options_33: 347382839833636860
+      Skin04-Pause-Options_34: -3448125606550590317
+      Skin04-Pause-Options_35: 5843908597436981619
+      Skin04-Pause-Options_4: 6178746555598062153
+      Skin04-Pause-Options_5: 373956343573006489
+      Skin04-Pause-Options_6: 781677276308702209
+      Skin04-Pause-Options_7: 2869156338992327478
+      Skin04-Pause-Options_8: -4606411272428356223
+      Skin04-Pause-Options_9: 2011176148201619286
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

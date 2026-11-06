@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.Rendering.Universal;
+using UnityEngine.UI;
 
 public class Flashlight : MonoBehaviour
 {
@@ -8,6 +9,7 @@ public class Flashlight : MonoBehaviour
     [SerializeField] private float drainPerSecond = 2f;
     [SerializeField] private float baseIntensity = 1.5f;
     [SerializeField] private float flickerBelow = 25f;
+    [SerializeField] private Image batteryBar;
 
     private Light2D flashlight;
     private float battery;
@@ -30,6 +32,8 @@ public class Flashlight : MonoBehaviour
         {
             battery = Mathf.MoveTowards(battery, 0f, drainPerSecond * Time.deltaTime);
         }
+
+        batteryBar.fillAmount = battery / maxBattery;
 
         if (!isOn || battery <= 0f)
         {
