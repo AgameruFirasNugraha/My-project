@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 5568bbef1fc271d42816627fd9b544cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3104197230989490288
+    second: Save-List-SelectionSquares_0
+  - first:
+      213: -5041821258665857202
+    second: Save-List-SelectionSquares_1
+  - first:
+      213: -1741712202685447072
+    second: Save-List-SelectionSquares_2
+  - first:
+      213: 3854618968403576614
+    second: Save-List-SelectionSquares_3
+  - first:
+      213: -6747459676314050015
+    second: Save-List-SelectionSquares_4
+  - first:
+      213: -1465119782844539121
+    second: Save-List-SelectionSquares_5
+  - first:
+      213: 8344493527150801203
+    second: Save-List-SelectionSquares_6
+  - first:
+      213: 613859830673902361
+    second: Save-List-SelectionSquares_7
+  - first:
+      213: 8577171054544378975
+    second: Save-List-SelectionSquares_8
+  - first:
+      213: 560529452429069181
+    second: Save-List-SelectionSquares_9
+  - first:
+      213: -9178303234889777599
+    second: Save-List-SelectionSquares_10
+  - first:
+      213: 1595066032135559638
+    second: Save-List-SelectionSquares_11
+  - first:
+      213: -2975451966473557859
+    second: Save-List-SelectionSquares_12
+  - first:
+      213: -6078697137764553380
+    second: Save-List-SelectionSquares_13
+  - first:
+      213: -1362951915425960819
+    second: Save-List-SelectionSquares_14
+  - first:
+      213: -7974581062359587395
+    second: Save-List-SelectionSquares_15
+  - first:
+      213: -7309799659558148027
+    second: Save-List-SelectionSquares_16
+  - first:
+      213: 2793073261821362931
+    second: Save-List-SelectionSquares_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Save-List-SelectionSquares_0
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 590
+        width: 260
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07831e15fe2541b20800000000000000
+      internalID: 3104197230989490288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save-List-SelectionSquares_1
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 554
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f6538274ad70ab0800000000000000
+      internalID: -5041821258665857202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save-List-SelectionSquares_2
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06488f9caf134d7e0800000000000000
+      internalID: -1741712202685447072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save-List-SelectionSquares_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 494
+        width: 260
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6278d24778b5e7530800000000000000
+      internalID: 3854618968403576614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save-List-SelectionSquares_4
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 458
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12267098c253c52a0800000000000000
+      internalID: -6747459676314050015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save-List-SelectionSquares_5
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f572ee159daabe0800000000000000
+      internalID: -1465119782844539121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save-List-SelectionSquares_6
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 398
+        width: 260
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331be54e6a89dc370800000000000000
+      internalID: 8344493527150801203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save-List-SelectionSquares_7
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 362
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b033d734ed48800800000000000000
+      internalID: 613859830673902361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save-List-SelectionSquares_8
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 368
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c51eb51ab380770800000000000000
+      internalID: 8577171054544378975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save-List-SelectionSquares_9
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 302
+        width: 260
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bcd22319667c700800000000000000
+      internalID: 560529452429069181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save-List-SelectionSquares_10
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 266
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e739b26dd10a080800000000000000
+      internalID: -9178303234889777599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save-List-SelectionSquares_11
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 272
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d95bbeea10d22610800000000000000
+      internalID: 1595066032135559638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save-List-SelectionSquares_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 206
+        width: 260
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d982b1c733215b6d0800000000000000
+      internalID: -2975451966473557859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save-List-SelectionSquares_13
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 170
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d2c56d82124aba0800000000000000
+      internalID: -6078697137764553380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save-List-SelectionSquares_14
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 176
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ce8134472d51de0800000000000000
+      internalID: -1362951915425960819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save-List-SelectionSquares_15
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 110
+        width: 260
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5ef7166c8945190800000000000000
+      internalID: -7974581062359587395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save-List-SelectionSquares_16
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 74
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548e3c840ff5e8a90800000000000000
+      internalID: -7309799659558148027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Save-List-SelectionSquares_17
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f20182555df2c620800000000000000
+      internalID: 2793073261821362931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Save-List-SelectionSquares_0: 3104197230989490288
+      Save-List-SelectionSquares_1: -5041821258665857202
+      Save-List-SelectionSquares_10: -9178303234889777599
+      Save-List-SelectionSquares_11: 1595066032135559638
+      Save-List-SelectionSquares_12: -2975451966473557859
+      Save-List-SelectionSquares_13: -6078697137764553380
+      Save-List-SelectionSquares_14: -1362951915425960819
+      Save-List-SelectionSquares_15: -7974581062359587395
+      Save-List-SelectionSquares_16: -7309799659558148027
+      Save-List-SelectionSquares_17: 2793073261821362931
+      Save-List-SelectionSquares_2: -1741712202685447072
+      Save-List-SelectionSquares_3: 3854618968403576614
+      Save-List-SelectionSquares_4: -6747459676314050015
+      Save-List-SelectionSquares_5: -1465119782844539121
+      Save-List-SelectionSquares_6: 8344493527150801203
+      Save-List-SelectionSquares_7: 613859830673902361
+      Save-List-SelectionSquares_8: 8577171054544378975
+      Save-List-SelectionSquares_9: 560529452429069181
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

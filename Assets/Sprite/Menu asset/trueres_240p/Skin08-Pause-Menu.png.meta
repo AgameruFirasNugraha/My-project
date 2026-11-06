@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 97684cd210823674781336bc13f2d862
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 422480838913974235
+    second: Skin08-Pause-Menu_0
+  - first:
+      213: -2676106358579866963
+    second: Skin08-Pause-Menu_1
+  - first:
+      213: -8933346945661229547
+    second: Skin08-Pause-Menu_2
+  - first:
+      213: 392611221769584553
+    second: Skin08-Pause-Menu_3
+  - first:
+      213: -4768002736200343104
+    second: Skin08-Pause-Menu_4
+  - first:
+      213: -3135622669472119151
+    second: Skin08-Pause-Menu_5
+  - first:
+      213: 1733620247529938687
+    second: Skin08-Pause-Menu_6
+  - first:
+      213: -5759564328265559070
+    second: Skin08-Pause-Menu_7
+  - first:
+      213: -1707540752733071885
+    second: Skin08-Pause-Menu_8
+  - first:
+      213: 334813426813300842
+    second: Skin08-Pause-Menu_9
+  - first:
+      213: 8185820425578620912
+    second: Skin08-Pause-Menu_10
+  - first:
+      213: 7790421392113726463
+    second: Skin08-Pause-Menu_11
+  - first:
+      213: -6354978175352710664
+    second: Skin08-Pause-Menu_12
+  - first:
+      213: 8413415551761676443
+    second: Skin08-Pause-Menu_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skin08-Pause-Menu_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 153
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf50e7a514fcd500800000000000000
+      internalID: 422480838913974235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin08-Pause-Menu_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 153
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2deab027f8cdad0800000000000000
+      internalID: -2676106358579866963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin08-Pause-Menu_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 153
+        width: 55
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516aa88a840660480800000000000000
+      internalID: -8933346945661229547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin08-Pause-Menu_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 149
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af786873d5d27500800000000000000
+      internalID: 392611221769584553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin08-Pause-Menu_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 125
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c120bcf5c6a4ddb0800000000000000
+      internalID: -4768002736200343104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin08-Pause-Menu_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 121
+        width: 77
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196c37c9bc70c74d0800000000000000
+      internalID: -3135622669472119151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin08-Pause-Menu_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 97
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe52751e6e0f0810800000000000000
+      internalID: 1733620247529938687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin08-Pause-Menu_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 97
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e358b842cae110b0800000000000000
+      internalID: -5759564328265559070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin08-Pause-Menu_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 97
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f597d97bb89d48e0800000000000000
+      internalID: -1707540752733071885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin08-Pause-Menu_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60fc3ba90f75a400800000000000000
+      internalID: 334813426813300842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin08-Pause-Menu_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 69
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f720c58e40e99170800000000000000
+      internalID: 8185820425578620912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin08-Pause-Menu_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 65
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3fa8f0bf22d1c60800000000000000
+      internalID: 7790421392113726463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin08-Pause-Menu_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 41
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9ddb605059ec7a0800000000000000
+      internalID: -6354978175352710664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin08-Pause-Menu_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 37
+        width: 71
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98708e3ed472c470800000000000000
+      internalID: 8413415551761676443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skin08-Pause-Menu_0: 422480838913974235
+      Skin08-Pause-Menu_1: -2676106358579866963
+      Skin08-Pause-Menu_10: 8185820425578620912
+      Skin08-Pause-Menu_11: 7790421392113726463
+      Skin08-Pause-Menu_12: -6354978175352710664
+      Skin08-Pause-Menu_13: 8413415551761676443
+      Skin08-Pause-Menu_2: -8933346945661229547
+      Skin08-Pause-Menu_3: 392611221769584553
+      Skin08-Pause-Menu_4: -4768002736200343104
+      Skin08-Pause-Menu_5: -3135622669472119151
+      Skin08-Pause-Menu_6: 1733620247529938687
+      Skin08-Pause-Menu_7: -5759564328265559070
+      Skin08-Pause-Menu_8: -1707540752733071885
+      Skin08-Pause-Menu_9: 334813426813300842
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

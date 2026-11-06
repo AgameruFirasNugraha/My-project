@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: d5b2e4feb53ec514eb7827b7fbf5afc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2588982506749550677
+    second: Skin07-Pause-Options_0
+  - first:
+      213: -5352985655170013331
+    second: Skin07-Pause-Options_1
+  - first:
+      213: -3580542896228720475
+    second: Skin07-Pause-Options_2
+  - first:
+      213: 2211557689166952788
+    second: Skin07-Pause-Options_3
+  - first:
+      213: 3923780258160829589
+    second: Skin07-Pause-Options_4
+  - first:
+      213: 1980804668615515609
+    second: Skin07-Pause-Options_5
+  - first:
+      213: -6135915251983461914
+    second: Skin07-Pause-Options_6
+  - first:
+      213: -914278900793088127
+    second: Skin07-Pause-Options_7
+  - first:
+      213: -4377448457592208350
+    second: Skin07-Pause-Options_8
+  - first:
+      213: -347081584029977906
+    second: Skin07-Pause-Options_9
+  - first:
+      213: 2754674046986454922
+    second: Skin07-Pause-Options_10
+  - first:
+      213: 1373088790265491777
+    second: Skin07-Pause-Options_11
+  - first:
+      213: -5373500163691583362
+    second: Skin07-Pause-Options_12
+  - first:
+      213: -7569920033850775677
+    second: Skin07-Pause-Options_13
+  - first:
+      213: 4544225408135318795
+    second: Skin07-Pause-Options_14
+  - first:
+      213: 3513972738206228617
+    second: Skin07-Pause-Options_15
+  - first:
+      213: -3964591752038149273
+    second: Skin07-Pause-Options_16
+  - first:
+      213: -1299663286625092652
+    second: Skin07-Pause-Options_17
+  - first:
+      213: 3343800990051295883
+    second: Skin07-Pause-Options_18
+  - first:
+      213: 942615592394751144
+    second: Skin07-Pause-Options_19
+  - first:
+      213: 4397395484630737509
+    second: Skin07-Pause-Options_20
+  - first:
+      213: -8182859242959056481
+    second: Skin07-Pause-Options_21
+  - first:
+      213: 3411671456925264827
+    second: Skin07-Pause-Options_22
+  - first:
+      213: 4113523278871106222
+    second: Skin07-Pause-Options_23
+  - first:
+      213: -1639984693481165150
+    second: Skin07-Pause-Options_24
+  - first:
+      213: -548047819460034913
+    second: Skin07-Pause-Options_25
+  - first:
+      213: -5851406845323873266
+    second: Skin07-Pause-Options_26
+  - first:
+      213: 2375548868801631169
+    second: Skin07-Pause-Options_27
+  - first:
+      213: 4023720464548245827
+    second: Skin07-Pause-Options_28
+  - first:
+      213: -2774969118959579450
+    second: Skin07-Pause-Options_29
+  - first:
+      213: -4320227594126287700
+    second: Skin07-Pause-Options_30
+  - first:
+      213: -6838035192084493777
+    second: Skin07-Pause-Options_31
+  - first:
+      213: 7424751494125418304
+    second: Skin07-Pause-Options_32
+  - first:
+      213: -8946440957080578224
+    second: Skin07-Pause-Options_33
+  - first:
+      213: 1873425164708958242
+    second: Skin07-Pause-Options_34
+  - first:
+      213: -6372911001033838865
+    second: Skin07-Pause-Options_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 650
+        width: 197
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550e1847fd9ede320800000000000000
+      internalID: 2588982506749550677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 464
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6764df68ef56b5b0800000000000000
+      internalID: -5352985655170013331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 464
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a02d37d43b5f4ec0800000000000000
+      internalID: -3580542896228720475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 464
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459741f300801be10800000000000000
+      internalID: 2211557689166952788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 464
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594ed501b51147630800000000000000
+      internalID: 3923780258160829589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 464
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd5342f95b3d7b10800000000000000
+      internalID: 1980804668615515609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 464
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1df997699d8daa0800000000000000
+      internalID: -6135915251983461914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 464
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187e79c0f24df43f0800000000000000
+      internalID: -914278900793088127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_8
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 464
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22482ae02dd2043c0800000000000000
+      internalID: -4377448457592208350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_9
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 464
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec230d3632bee2bf0800000000000000
+      internalID: -347081584029977906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_10
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 464
+        width: 290
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a878d9a63719a3620800000000000000
+      internalID: 2754674046986454922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 380
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14178d4daf03e0310800000000000000
+      internalID: 1373088790265491777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 380
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78e8a6321e7d65b0800000000000000
+      internalID: -5373500163691583362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 380
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387263c16dd32f690800000000000000
+      internalID: -7569920033850775677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 380
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dc53faee4501f30800000000000000
+      internalID: 4544225408135318795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_15
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 380
+        width: 290
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980603b669324c030800000000000000
+      internalID: 3513972738206228617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 296
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763925c8ec0faf8c0800000000000000
+      internalID: -3964591752038149273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 296
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db3811702ba6fde0800000000000000
+      internalID: -1299663286625092652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_18
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 296
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b826b93c841976e20800000000000000
+      internalID: 3343800990051295883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_19
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 296
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acfe6813e7d41d00800000000000000
+      internalID: 942615592394751144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 296
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562625615efa60d30800000000000000
+      internalID: 4397395484630737509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 296
+        width: 158
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9157688fd4a07e80800000000000000
+      internalID: -8182859242959056481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_22
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 296
+        width: 290
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbae504d11b85f20800000000000000
+      internalID: 3411671456925264827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 212
+        width: 101
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea29964b0ab261930800000000000000
+      internalID: 4113523278871106222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 212
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae2afb3c9a9d39e0800000000000000
+      internalID: -1639984693481165150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_25
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 212
+        width: 203
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e38217961f468f0800000000000000
+      internalID: -548047819460034913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_26
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 212
+        width: 101
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e047e2ce970abcea0800000000000000
+      internalID: -5851406845323873266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 128
+        width: 161
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c390872c15a7f020800000000000000
+      internalID: 2375548868801631169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_28
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 128
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3413ed4a17027d730800000000000000
+      internalID: 4023720464548245827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_29
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 128
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce4cb9e9445d79d0800000000000000
+      internalID: -2774969118959579450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_30
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 122
+        width: 14
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac134784e77b04c0800000000000000
+      internalID: -4320227594126287700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_31
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 128
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a0f26e83b6a11a0800000000000000
+      internalID: -6838035192084493777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_32
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 125
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04775e855240a0760800000000000000
+      internalID: 7424751494125418304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_33
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 128
+        width: 83
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057d43d895bd7d380800000000000000
+      internalID: -8946440957080578224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_34
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 122
+        width: 14
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22051cfe24ebff910800000000000000
+      internalID: 1873425164708958242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin07-Pause-Options_35
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 8
+        width: 122
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feee23ea53fde87a0800000000000000
+      internalID: -6372911001033838865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skin07-Pause-Options_0: 2588982506749550677
+      Skin07-Pause-Options_1: -5352985655170013331
+      Skin07-Pause-Options_10: 2754674046986454922
+      Skin07-Pause-Options_11: 1373088790265491777
+      Skin07-Pause-Options_12: -5373500163691583362
+      Skin07-Pause-Options_13: -7569920033850775677
+      Skin07-Pause-Options_14: 4544225408135318795
+      Skin07-Pause-Options_15: 3513972738206228617
+      Skin07-Pause-Options_16: -3964591752038149273
+      Skin07-Pause-Options_17: -1299663286625092652
+      Skin07-Pause-Options_18: 3343800990051295883
+      Skin07-Pause-Options_19: 942615592394751144
+      Skin07-Pause-Options_2: -3580542896228720475
+      Skin07-Pause-Options_20: 4397395484630737509
+      Skin07-Pause-Options_21: -8182859242959056481
+      Skin07-Pause-Options_22: 3411671456925264827
+      Skin07-Pause-Options_23: 4113523278871106222
+      Skin07-Pause-Options_24: -1639984693481165150
+      Skin07-Pause-Options_25: -548047819460034913
+      Skin07-Pause-Options_26: -5851406845323873266
+      Skin07-Pause-Options_27: 2375548868801631169
+      Skin07-Pause-Options_28: 4023720464548245827
+      Skin07-Pause-Options_29: -2774969118959579450
+      Skin07-Pause-Options_3: 2211557689166952788
+      Skin07-Pause-Options_30: -4320227594126287700
+      Skin07-Pause-Options_31: -6838035192084493777
+      Skin07-Pause-Options_32: 7424751494125418304
+      Skin07-Pause-Options_33: -8946440957080578224
+      Skin07-Pause-Options_34: 1873425164708958242
+      Skin07-Pause-Options_35: -6372911001033838865
+      Skin07-Pause-Options_4: 3923780258160829589
+      Skin07-Pause-Options_5: 1980804668615515609
+      Skin07-Pause-Options_6: -6135915251983461914
+      Skin07-Pause-Options_7: -914278900793088127
+      Skin07-Pause-Options_8: -4377448457592208350
+      Skin07-Pause-Options_9: -347081584029977906
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

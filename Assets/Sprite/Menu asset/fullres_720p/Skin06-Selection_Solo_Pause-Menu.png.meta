@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 6f7aa0639ed48bd4ebd72f75ca659ffb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3579635845450308171
+    second: Skin06-Selection_Solo_Pause-Menu_0
+  - first:
+      213: 4972808918560700445
+    second: Skin06-Selection_Solo_Pause-Menu_1
+  - first:
+      213: -8563722861514132423
+    second: Skin06-Selection_Solo_Pause-Menu_2
+  - first:
+      213: -225208567424574480
+    second: Skin06-Selection_Solo_Pause-Menu_3
+  - first:
+      213: -8486891446419034815
+    second: Skin06-Selection_Solo_Pause-Menu_4
+  - first:
+      213: -5817751926654168965
+    second: Skin06-Selection_Solo_Pause-Menu_5
+  - first:
+      213: -3003747247023388109
+    second: Skin06-Selection_Solo_Pause-Menu_6
+  - first:
+      213: -5119970045476175127
+    second: Skin06-Selection_Solo_Pause-Menu_7
+  - first:
+      213: 7212058404041142974
+    second: Skin06-Selection_Solo_Pause-Menu_8
+  - first:
+      213: 435002428570886494
+    second: Skin06-Selection_Solo_Pause-Menu_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skin06-Selection_Solo_Pause-Menu_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 461
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5edae0a24925ec0800000000000000
+      internalID: -3579635845450308171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin06-Selection_Solo_Pause-Menu_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 449
+        width: 293
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1874b64d57f20540800000000000000
+      internalID: 4972808918560700445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin06-Selection_Solo_Pause-Menu_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 377
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934fe841e6b872980800000000000000
+      internalID: -8563722861514132423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin06-Selection_Solo_Pause-Menu_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 365
+        width: 227
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb984a4006efdcf0800000000000000
+      internalID: -225208567424574480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin06-Selection_Solo_Pause-Menu_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 293
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d64e8e131883a80800000000000000
+      internalID: -8486891446419034815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin06-Selection_Solo_Pause-Menu_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 281
+        width: 227
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b701f6c4271334fa0800000000000000
+      internalID: -5817751926654168965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin06-Selection_Solo_Pause-Menu_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 209
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a0d1a1bcb8056d0800000000000000
+      internalID: -3003747247023388109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin06-Selection_Solo_Pause-Menu_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 197
+        width: 164
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e280c2de5632f8b0800000000000000
+      internalID: -5119970045476175127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin06-Selection_Solo_Pause-Menu_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 125
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb23e3848e0661460800000000000000
+      internalID: 7212058404041142974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin06-Selection_Solo_Pause-Menu_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 113
+        width: 209
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51666f6760790600800000000000000
+      internalID: 435002428570886494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skin06-Selection_Solo_Pause-Menu_0: -3579635845450308171
+      Skin06-Selection_Solo_Pause-Menu_1: 4972808918560700445
+      Skin06-Selection_Solo_Pause-Menu_2: -8563722861514132423
+      Skin06-Selection_Solo_Pause-Menu_3: -225208567424574480
+      Skin06-Selection_Solo_Pause-Menu_4: -8486891446419034815
+      Skin06-Selection_Solo_Pause-Menu_5: -5817751926654168965
+      Skin06-Selection_Solo_Pause-Menu_6: -3003747247023388109
+      Skin06-Selection_Solo_Pause-Menu_7: -5119970045476175127
+      Skin06-Selection_Solo_Pause-Menu_8: 7212058404041142974
+      Skin06-Selection_Solo_Pause-Menu_9: 435002428570886494
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 6c87ff1a5594c2842b7b67965363079f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3537498808412103779
+    second: Skin01-Pause-Menu_0
+  - first:
+      213: -118410702375165561
+    second: Skin01-Pause-Menu_1
+  - first:
+      213: -541120269468741898
+    second: Skin01-Pause-Menu_2
+  - first:
+      213: -8773261166815289192
+    second: Skin01-Pause-Menu_3
+  - first:
+      213: 4393490832447552501
+    second: Skin01-Pause-Menu_4
+  - first:
+      213: -986607686206476703
+    second: Skin01-Pause-Menu_5
+  - first:
+      213: 6184626825116406544
+    second: Skin01-Pause-Menu_6
+  - first:
+      213: 7588823250263284287
+    second: Skin01-Pause-Menu_7
+  - first:
+      213: 1379834060466344069
+    second: Skin01-Pause-Menu_8
+  - first:
+      213: -3846862541865777562
+    second: Skin01-Pause-Menu_9
+  - first:
+      213: -2766616840892711641
+    second: Skin01-Pause-Menu_10
+  - first:
+      213: 8550547858531647472
+    second: Skin01-Pause-Menu_11
+  - first:
+      213: -1817463809635784395
+    second: Skin01-Pause-Menu_12
+  - first:
+      213: -4378248972079753117
+    second: Skin01-Pause-Menu_13
+  - first:
+      213: -5157969107054352627
+    second: Skin01-Pause-Menu_14
+  - first:
+      213: 9207612633481241477
+    second: Skin01-Pause-Menu_15
+  - first:
+      213: -4444054916239950794
+    second: Skin01-Pause-Menu_16
+  - first:
+      213: 9126888219878130772
+    second: Skin01-Pause-Menu_17
+  - first:
+      213: -6995543154438919802
+    second: Skin01-Pause-Menu_18
+  - first:
+      213: 7242605854660231923
+    second: Skin01-Pause-Menu_19
+  - first:
+      213: 8002231810825776161
+    second: Skin01-Pause-Menu_20
+  - first:
+      213: -578847685458508522
+    second: Skin01-Pause-Menu_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 154
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b9a33839748eec0800000000000000
+      internalID: -3537498808412103779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 154
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781e253f7125b5ef0800000000000000
+      internalID: -118410702375165561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 153
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe4d8d5bfd8d78f0800000000000000
+      internalID: -541120269468741898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 149
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890ee36937d1f3680800000000000000
+      internalID: -8773261166815289192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 126
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbb8f762a0d8fc30800000000000000
+      internalID: 4393490832447552501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 126
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e2ef2698dde42f0800000000000000
+      internalID: -986607686206476703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 125
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0135a63745534d550800000000000000
+      internalID: 6184626825116406544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 121
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a1b2fe98ae05960800000000000000
+      internalID: 7588823250263284287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 98
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580d41f64c7262310800000000000000
+      internalID: 1379834060466344069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 98
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666855456e23d9ac0800000000000000
+      internalID: -3846862541865777562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 97
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72df9f034a00b99d0800000000000000
+      internalID: -2766616840892711641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 94
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff71ce79f5a9a670800000000000000
+      internalID: 8550547858531647472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 70
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539e7826b4217c6e0800000000000000
+      internalID: -1817463809635784395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 70
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36897f0c1c55d33c0800000000000000
+      internalID: -4378248972079753117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_14
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 66
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07269bdc663b68b0800000000000000
+      internalID: -5157969107054352627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 70
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5836c08f7e208cf70800000000000000
+      internalID: 9207612633481241477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 70
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c703b699b8352c0800000000000000
+      internalID: -4444054916239950794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 42
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454888aca7839ae70800000000000000
+      internalID: 9126888219878130772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689a0c4a096daee90800000000000000
+      internalID: -6995543154438919802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_19
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 42
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2003fd6a7e28460800000000000000
+      internalID: 7242605854660231923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 38
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ce99e2f63ad0f60800000000000000
+      internalID: 8002231810825776161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin01-Pause-Menu_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 42
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6154031d81587f7f0800000000000000
+      internalID: -578847685458508522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skin01-Pause-Menu_0: -3537498808412103779
+      Skin01-Pause-Menu_1: -118410702375165561
+      Skin01-Pause-Menu_10: -2766616840892711641
+      Skin01-Pause-Menu_11: 8550547858531647472
+      Skin01-Pause-Menu_12: -1817463809635784395
+      Skin01-Pause-Menu_13: -4378248972079753117
+      Skin01-Pause-Menu_14: -5157969107054352627
+      Skin01-Pause-Menu_15: 9207612633481241477
+      Skin01-Pause-Menu_16: -4444054916239950794
+      Skin01-Pause-Menu_17: 9126888219878130772
+      Skin01-Pause-Menu_18: -6995543154438919802
+      Skin01-Pause-Menu_19: 7242605854660231923
+      Skin01-Pause-Menu_2: -541120269468741898
+      Skin01-Pause-Menu_20: 8002231810825776161
+      Skin01-Pause-Menu_21: -578847685458508522
+      Skin01-Pause-Menu_3: -8773261166815289192
+      Skin01-Pause-Menu_4: 4393490832447552501
+      Skin01-Pause-Menu_5: -986607686206476703
+      Skin01-Pause-Menu_6: 6184626825116406544
+      Skin01-Pause-Menu_7: 7588823250263284287
+      Skin01-Pause-Menu_8: 1379834060466344069
+      Skin01-Pause-Menu_9: -3846862541865777562
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
