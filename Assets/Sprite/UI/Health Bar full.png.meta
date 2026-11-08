@@ -165,7 +165,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 400ace940319d8f49bfc591fbd818592
+    spriteID: 400ace940319d8f49bfc591fbd8185926577ce57cbce6e447bbec861a2fb70bd
     internalID: 0
     vertices: []
     indices: 
@@ -177,6 +177,7 @@ TextureImporter:
     nameFileIdTable:
       Battery Bar Full_1: 5685592272799184095
       Health Bar Full_0: -4482304846652304018
+      Health Bar Full_1: 5685592272799184095
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
