@@ -126,7 +126,7 @@ TextureImporter:
         width: 63
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -140,7 +140,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Health Bar Full_1
+      name: Battery Bar Full_1
       rect:
         serializedVersion: 2
         x: 26
@@ -148,7 +148,7 @@ TextureImporter:
         width: 63
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -165,7 +165,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 400ace940319d8f49bfc591fbd818592
     internalID: 0
     vertices: []
     indices: 
@@ -175,8 +175,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      Battery Bar Full_1: 5685592272799184095
       Health Bar Full_0: -4482304846652304018
-      Health Bar Full_1: 5685592272799184095
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
