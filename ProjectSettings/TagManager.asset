@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -41,3 +41,30 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Floor
+    uniqueID: 1587810493
+    locked: 0
+  - name: Decals
+    uniqueID: 1726929671
+    locked: 0
+  - name: Props
+    uniqueID: 1504818033
+    locked: 0
+  - name: Characters
+    uniqueID: 2087645945
+    locked: 0
+  - name: Walls
+    uniqueID: 327693362
+    locked: 0
+  - name: Overhead
+    uniqueID: 377029973
+    locked: 0
+  - name: Roof
+    uniqueID: 791244911
+    locked: 0
+  - name: FX
+    uniqueID: 1825785779
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
