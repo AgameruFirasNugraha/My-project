@@ -1,7 +1,7 @@
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
-using UnityEngine.UI;
 
 public class PlayerHealth : MonoBehaviour
 {
@@ -16,8 +16,10 @@ public class PlayerHealth : MonoBehaviour
 
     void Awake()
     {
-        health = maxHealth;
         Time.timeScale = 1f;
+        health = maxHealth;
+        dead = false;
+
         healthBar.fillAmount = 1f;
         deathPanel.SetActive(false);
         SetFlashAlpha(0f);
@@ -30,34 +32,47 @@ public class PlayerHealth : MonoBehaviour
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
 
-        if (damageFlash.color.a > 0f)
+        if (damageFlash != null && damageFlash.color.a > 0f)
         {
-            float alpha = Mathf.MoveTowards(damageFlash.color.a, 0f, flashFadeSpeed * Time.unscaledDeltaTime);
-            SetFlashAlpha(alpha);
+            Color c = damageFlash.color;
+            c.a = Mathf.MoveTowards(c.a, 0f, flashFadeSpeed * Time.unscaledDeltaTime);
+            damageFlash.color = c;
         }
     }
 
     public void TakeDamage(float amount)
     {
-        if (dead)
-        {
-            return;
-        }
+        if (dead) { return; }
 
-        health = Mathf.MoveTowards(health, 0f, amount);
+        health = Mathf.Max(0f, health - amount);
         healthBar.fillAmount = health / maxHealth;
         SetFlashAlpha(0.5f);
 
         if (health <= 0f)
         {
-            dead = true;
-            Time.timeScale = 0f;
-            deathPanel.SetActive(true);
+            Die();
         }
     }
 
-    private void SetFlashAlpha(float alpha)
+    public void Heal(float amount)
     {
+        if (dead) { return; }
+
+        health = Mathf.Min(maxHealth, health + amount);
+        healthBar.fillAmount = health / maxHealth;
+    }
+
+    void Die()
+    {
+        dead = true;
+        deathPanel.SetActive(true);
+        Time.timeScale = 0f;
+    }
+
+    void SetFlashAlpha(float alpha)
+    {
+        if (damageFlash == null) { return; }
+
         Color c = damageFlash.color;
         c.a = alpha;
         damageFlash.color = c;
