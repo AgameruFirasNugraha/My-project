@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f594c4320a7233d48aed8f1474456c48, type: 3}
+  m_Name: Wall_Exterior
+  m_EditorClassIdentifier: Assembly-CSharp::HollowHill.WallTile
+  sprites:
+  - {fileID: 21300000, guid: 1fd95ac35b242534ebefb719d95f7d68, type: 3}
+  - {fileID: 21300000, guid: d04d170d046d7134e990745b00d2b439, type: 3}
+  - {fileID: 21300000, guid: da271e98e730e9e44847f24ef9420452, type: 3}
+  - {fileID: 21300000, guid: 8c62c671aa3294b4b9a01dc616f9d85c, type: 3}
+  - {fileID: 21300000, guid: e60f7e434fcb649479aedfd89d6dabc8, type: 3}
+  - {fileID: 21300000, guid: 8eb97ea2bca04044dae766142230f471, type: 3}
+  - {fileID: 21300000, guid: c730fbc85c3ac494c84ea5e03bdfd3bc, type: 3}
+  - {fileID: 21300000, guid: b880e6972ed4762429a4824dd0e530ec, type: 3}
+  - {fileID: 21300000, guid: 0bcde614ac6771b41b841dc22e7b4241, type: 3}
+  - {fileID: 21300000, guid: 52b2b538dc8e9f84a8f2119afe7377c8, type: 3}
+  - {fileID: 21300000, guid: e134308773bd0f44dbdfa825a3acf5b7, type: 3}
+  - {fileID: 21300000, guid: 0a970545dc2082445b4fa86145b563b4, type: 3}
+  - {fileID: 21300000, guid: 02048595b44bae7439ea20f66327b100, type: 3}
+  - {fileID: 21300000, guid: ae017a26ec3c4e742a8a53a132430697, type: 3}
+  - {fileID: 21300000, guid: fbbe3b4ba805bfd49b12848d1bc45d2f, type: 3}
+  - {fileID: 21300000, guid: a0033bafc0a08b84d83ad0fb127c34e7, type: 3}
+  damagedHorizontal:
+  - {fileID: 21300000, guid: 7fb176f96e1aa774aa53a4f52349ee1f, type: 3}
+  - {fileID: 21300000, guid: dd668a506bd1ea44e811b164042a8dee, type: 3}
+  - {fileID: 21300000, guid: ae17f9ee35df9d14198c25e14dfb69e8, type: 3}
+  damagedVertical:
+  - {fileID: 21300000, guid: cbd3015f6079c21408a493e4ed01b190, type: 3}
+  - {fileID: 21300000, guid: 895bae9c2d68b7f46bea49e879289b9e, type: 3}
+  - {fileID: 21300000, guid: 9a6aa5f3798922f409e6ceed30a21708, type: 3}
+  damageChance: 0.12
+  invisibleConnector: 0
+  colliderType: 1
