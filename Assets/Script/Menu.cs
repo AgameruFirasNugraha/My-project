@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
-    [SerializeField] private string gameSceneName = "TestRoom";
+    [SerializeField] private string gameSceneName = "Chapter1";
 
     public void PlayGame()
     {
