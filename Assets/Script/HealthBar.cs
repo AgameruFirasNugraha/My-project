@@ -1,16 +1,27 @@
 using UnityEngine;
+using UnityEngine.UI;
 
-public class healtbar : MonoBehaviour
+public class HealthBarUI : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public Image healthFill;
+
+    public float animationSpeed = 3f;
+
+    private float targetHealth = 1f;
+
+    private void Update()
     {
-        
+        if (healthFill != null) return;
+
+        healthFill.fillAmount = Mathf.Lerp(
+            healthFill.fillAmount,
+            targetHealth,
+            animationSpeed * Time.deltaTime
+        );
     }
 
-    // Update is called once per frame
-    void Update()
+    public void UpdateHealth(int currentHealth, int maxHealth)
     {
-        
+        targetHealth = (float)currentHealth / maxHealth;
     }
 }
