@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class enamy : MonoBehaviour
 {
-    public float moveSpeed = 2f;
+    public float moveSpeed = 1f;
     Rigidbody2D rb;
     Transform target;
     Vector2 moveDirection;
