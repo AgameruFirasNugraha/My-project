@@ -8556,7 +8556,6 @@ GameObject:
   - component: {fileID: 876476016}
   - component: {fileID: 876476015}
   - component: {fileID: 876476014}
-  - component: {fileID: 876476013}
   m_Layer: 0
   m_Name: BatteryPickup (3)
   m_TagString: Untagged
@@ -8579,19 +8578,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 866619628}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 20}
---- !u!114 &876476013
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 876476011}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a6b1d52a8674ce34cba2616f783a6cab, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  batteryAmount: 25
 --- !u!114 &876476014
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11134,7 +11120,6 @@ GameObject:
   - component: {fileID: 1003079658}
   - component: {fileID: 1003079657}
   - component: {fileID: 1003079656}
-  - component: {fileID: 1003079655}
   m_Layer: 0
   m_Name: BatteryPickup (4)
   m_TagString: Untagged
@@ -11157,19 +11142,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 866619628}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1003079655
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1003079653}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a6b1d52a8674ce34cba2616f783a6cab, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  batteryAmount: 25
 --- !u!114 &1003079656
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12114,7 +12086,6 @@ GameObject:
   - component: {fileID: 1016905704}
   - component: {fileID: 1016905703}
   - component: {fileID: 1016905702}
-  - component: {fileID: 1016905701}
   m_Layer: 0
   m_Name: BatteryPickup (1)
   m_TagString: Untagged
@@ -12137,19 +12108,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 866619628}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1016905701
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1016905699}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a6b1d52a8674ce34cba2616f783a6cab, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  batteryAmount: 25
 --- !u!114 &1016905702
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17731,7 +17689,6 @@ GameObject:
   - component: {fileID: 1335463121}
   - component: {fileID: 1335463120}
   - component: {fileID: 1335463119}
-  - component: {fileID: 1335463118}
   m_Layer: 0
   m_Name: BatteryPickup (2)
   m_TagString: Untagged
@@ -17754,19 +17711,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 866619628}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1335463118
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1335463116}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a6b1d52a8674ce34cba2616f783a6cab, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  batteryAmount: 25
 --- !u!114 &1335463119
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18504,7 +18448,6 @@ GameObject:
   - component: {fileID: 1338132744}
   - component: {fileID: 1338132743}
   - component: {fileID: 1338132742}
-  - component: {fileID: 1338132741}
   m_Layer: 0
   m_Name: BatteryPickup
   m_TagString: Untagged
@@ -18512,19 +18455,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1338132741
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1338132740}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a6b1d52a8674ce34cba2616f783a6cab, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  batteryAmount: 25
 --- !u!114 &1338132742
 MonoBehaviour:
   m_ObjectHideFlags: 0
