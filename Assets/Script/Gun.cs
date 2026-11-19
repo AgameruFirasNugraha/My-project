@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -13,6 +12,7 @@ public class Gun : MonoBehaviour
     [SerializeField] private LineRenderer tracer;
     [SerializeField] private AudioSource audioSource;
     [SerializeField] private TMP_Text ammoText;
+    [SerializeField] private InventoryUI inventory;
 
     [Header("Effects")]
     [SerializeField] private GameObject wallImpactPrefab;
@@ -36,13 +36,11 @@ public class Gun : MonoBehaviour
 
     [Header("Ammo")]
     [SerializeField] private int magazineSize = 12;
-    [SerializeField] private int startingSpareMags = 2;
 
     [Header("Animation")]
     [SerializeField] private bool hasReloadAnimation = false;
 
     private int roundsInMag;
-    private List<int> spareMags = new List<int>();
     private float nextFireTime;
     private bool reloading;
 
@@ -53,11 +51,6 @@ public class Gun : MonoBehaviour
 
         roundsInMag = magazineSize;
 
-        for (int i = 0; i < startingSpareMags; i++)
-        {
-            spareMags.Add(magazineSize);
-        }
-
         if (muzzleFlash != null) { muzzleFlash.SetActive(false); }
 
         if (tracer != null)
@@ -66,12 +59,20 @@ public class Gun : MonoBehaviour
             tracer.enabled = false;
         }
 
+        if (inventory != null) { inventory.Changed += UpdateUI; }
+
         UpdateUI();
+    }
+
+    void OnDestroy()
+    {
+        if (inventory != null) { inventory.Changed -= UpdateUI; }
     }
 
     void Update()
     {
         if (reloading) { return; }
+        if (inventory != null && inventory.IsOpen) { return; }
 
         if (Mouse.current.leftButton.wasPressedThisFrame)
         {
@@ -171,18 +172,16 @@ public class Gun : MonoBehaviour
     {
         if (reloading || roundsInMag >= magazineSize) { return; }
 
-        int best = FullestSpareMag();
-
-        if (best < 0)
+        if (inventory == null || !inventory.HasBetterMagazine(roundsInMag))
         {
             Debug.Log("No spare magazines");
             return;
         }
 
-        StartCoroutine(Reload(best));
+        StartCoroutine(Reload());
     }
 
-    IEnumerator Reload(int index)
+    IEnumerator Reload()
     {
         reloading = true;
         UpdateUI();
@@ -196,15 +195,13 @@ public class Gun : MonoBehaviour
 
         yield return new WaitForSeconds(reloadTime);
 
-        int newRounds = spareMags[index];
-        spareMags.RemoveAt(index);
+        int newRounds;
 
-        if (roundsInMag > 0)
+        if (inventory.SwapMagazine(roundsInMag, out newRounds))
         {
-            spareMags.Add(roundsInMag);
+            roundsInMag = newRounds;
         }
 
-        roundsInMag = newRounds;
         reloading = false;
         UpdateUI();
     }
@@ -223,29 +220,6 @@ public class Gun : MonoBehaviour
         }
     }
 
-    int FullestSpareMag()
-    {
-        int bestIndex = -1;
-        int bestRounds = 0;
-
-        for (int i = 0; i < spareMags.Count; i++)
-        {
-            if (spareMags[i] > bestRounds)
-            {
-                bestRounds = spareMags[i];
-                bestIndex = i;
-            }
-        }
-
-        return bestIndex;
-    }
-
-    public void AddMagazine(int rounds)
-    {
-        spareMags.Add(rounds);
-        UpdateUI();
-    }
-
     void UpdateUI()
     {
         if (ammoText == null) { return; }
@@ -256,7 +230,8 @@ public class Gun : MonoBehaviour
         }
         else
         {
-            ammoText.text = roundsInMag + " / " + spareMags.Count;
+            int spare = inventory != null ? inventory.MagazineCount() : 0;
+            ammoText.text = roundsInMag + " / " + spare;
         }
     }
 
