@@ -1,10 +1,12 @@
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.InputSystem;
 
 public class WorldItem : MonoBehaviour
 {
     [SerializeField] private ItemData item;
     [SerializeField] private GameObject prompt;
+    public UnityEvent onPickedUp;
 
     private InventoryUI inventory;
     private bool playerInside;
@@ -18,7 +20,9 @@ public class WorldItem : MonoBehaviour
 
     void Update()
     {
-        if (playerInside && Keyboard.current.eKey.wasPressedThisFrame)
+        if (!playerInside) { return; }
+
+        if (Keyboard.current.eKey.wasPressedThisFrame)
         {
             TryPickUp();
         }
@@ -26,22 +30,20 @@ public class WorldItem : MonoBehaviour
 
     void TryPickUp()
     {
-        if (inventory == null) { return; }
+        if (inventory == null)
+        {
+            inventory = FindAnyObjectByType<InventoryUI>();
+            if (inventory == null) { return; }
+        }
 
         if (inventory.AddItem(item))
         {
+            onPickedUp.Invoke();
             Destroy(gameObject);
         }
-        else
+        else if (HudMessage.Instance != null)
         {
-            if (HudMessage.Instance != null)
-            {
-                HudMessage.Instance.ShowMessage("Backpack full");
-            }
-            else
-            {
-                Debug.Log("Backpack full");
-            }
+            HudMessage.Instance.ShowMessage("Backpack full");
         }
     }
 
