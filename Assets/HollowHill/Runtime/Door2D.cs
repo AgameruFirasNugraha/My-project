@@ -33,6 +33,8 @@ namespace HollowHill
 
         void Start() { Apply(startsOpen); }
 
+        
+
         public void Interact(HHPlayerHooks who)
         {
             if (locked)
