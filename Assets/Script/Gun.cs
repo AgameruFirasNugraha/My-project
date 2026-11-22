@@ -73,6 +73,7 @@ public class Gun : MonoBehaviour
     {
         if (reloading) { return; }
         if (inventory != null && inventory.IsOpen) { return; }
+        if (NoteReaderUI.IsOpen) { return; }
 
         if (Mouse.current.leftButton.wasPressedThisFrame)
         {
