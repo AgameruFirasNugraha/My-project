@@ -3185,7 +3185,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1149970337273936641, guid: 933ed982af588054b88ea4a5252eb470, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2224507783509418131, guid: 933ed982af588054b88ea4a5252eb470, type: 3}
       propertyPath: m_SortingLayer
@@ -3584,9 +3584,9 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 55384896}
-  - {fileID: 81395087}
   - {fileID: 1176868600}
+  - {fileID: 621583764}
+  - {fileID: 943828109}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &350316542
@@ -5312,6 +5312,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PlayerSystem
       objectReference: {fileID: 0}
+    - target: {fileID: 1725842590313795423, guid: 933ed982af588054b88ea4a5252eb470, type: 3}
+      propertyPath: m_Alpha
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2224507783509418131, guid: 933ed982af588054b88ea4a5252eb470, type: 3}
       propertyPath: m_SortingLayer
       value: 4
@@ -6799,12 +6803,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 618237002}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a1f49388bf174b947a61bc66bfcbd6e6, type: 3}
+  m_Script: {fileID: 11500000, guid: adb5a155bdc86484488f719694503370, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DoorToScene
-  sceneName: Map Inside
+  sceneName: Chapter2Intro
   locked: 1
   lockedMessage: The door is locked.
+  fadeGroup: {fileID: 1560833073}
+  fadeDuration: 0.8
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -6821,7 +6827,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &619394801
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6913,6 +6919,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &621583764 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5249005095999852595, guid: 6c2fb25a8cc112847a5d0cefcddc018a, type: 3}
+  m_PrefabInstance: {fileID: 727883229}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &622106645
 GameObject:
   m_ObjectHideFlags: 0
@@ -10239,6 +10250,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!4 &943828109 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5249005095999852595, guid: 6c2fb25a8cc112847a5d0cefcddc018a, type: 3}
+  m_PrefabInstance: {fileID: 1005273798}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &943892432
 GameObject:
   m_ObjectHideFlags: 0
@@ -14168,7 +14184,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!58 &1098291672
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -14203,8 +14219,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Radius: 1
+  m_Offset: {x: 0, y: -0.012136221}
+  m_Radius: 0.1965859
 --- !u!212 &1098291673
 SpriteRenderer:
   serializedVersion: 3
@@ -14289,7 +14305,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1098291671}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e2d410a485950ab46af554b379839a8a, type: 3}
+  m_Script: {fileID: 11500000, guid: 20d2c9fceb510f340a89c1b3307d8108, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ReadableNote
   title: Bloody Note
@@ -21467,6 +21483,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1546321921}
   m_CullTransparentMesh: 1
+--- !u!225 &1560833073 stripped
+CanvasGroup:
+  m_CorrespondingSourceObject: {fileID: 1725842590313795423, guid: 933ed982af588054b88ea4a5252eb470, type: 3}
+  m_PrefabInstance: {fileID: 491371950}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1573753710
 GameObject:
   m_ObjectHideFlags: 0
@@ -22519,7 +22540,6 @@ MonoBehaviour:
   onPickedUp:
     m_PersistentCalls:
       m_Calls: []
-  prompt: {fileID: 0}
 --- !u!1001 &1653161056
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22734,12 +22754,12 @@ PrefabInstance:
       value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 8369735851044246898, guid: 9d6df760acc54fb4ca8170f8c26227f5, type: 3}
-      propertyPath: detectionRange
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 8369735851044246898, guid: 9d6df760acc54fb4ca8170f8c26227f5, type: 3}
       propertyPath: moveSpeed
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8369735851044246898, guid: 9d6df760acc54fb4ca8170f8c26227f5, type: 3}
+      propertyPath: detectionRange
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23347,11 +23367,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1244580504267698715, guid: deeaf891f3efce3418aa5bd430284575, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.66999996
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: 1244580504267698715, guid: deeaf891f3efce3418aa5bd430284575, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.66999996
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: 1244580504267698715, guid: deeaf891f3efce3418aa5bd430284575, type: 3}
       propertyPath: m_LocalPosition.x
@@ -47099,6 +47119,7 @@ SceneRoots:
   m_Roots:
   - {fileID: 519420032}
   - {fileID: 619394802}
+  - {fileID: 491371950}
   - {fileID: 287261220}
   - {fileID: 1004265686}
   - {fileID: 1199992170}
@@ -47112,9 +47133,9 @@ SceneRoots:
   - {fileID: 1113423263}
   - {fileID: 866619628}
   - {fileID: 618237004}
-  - {fileID: 3621251140324498163}
-  - {fileID: 1655538893}
   - {fileID: 624588095}
   - {fileID: 96624831}
   - {fileID: 1792547554}
   - {fileID: 1098291674}
+  - {fileID: 347960311}
+  - {fileID: 368610671}
