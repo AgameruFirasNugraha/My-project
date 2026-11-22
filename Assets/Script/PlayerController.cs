@@ -10,6 +10,7 @@ public class PlayerController : MonoBehaviour
 
     private Rigidbody2D rb;
     private Camera cam;
+    private Stamina stamina;
     private Vector2 moveInput;
     private bool sprinting;
 
@@ -17,6 +18,7 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         cam = Camera.main;
+        stamina = GetComponent<Stamina>();
     }
 
     void Update()
@@ -30,11 +32,22 @@ public class PlayerController : MonoBehaviour
         if (kb.aKey.isPressed) moveInput += Vector2.left;
         moveInput = moveInput.normalized;
 
-        sprinting = kb.leftShiftKey.isPressed;
+        bool wantsSprint = kb.leftShiftKey.isPressed && moveInput.sqrMagnitude > 0.01f;
+
+        if (stamina != null)
+        {
+            sprinting = wantsSprint && stamina.CanSprint;
+            stamina.Tick(wantsSprint);
+        }
+        else
+        {
+            sprinting = wantsSprint;
+        }
     }
 
     void FixedUpdate()
     {
+        if (cam == null) { cam = Camera.main; }
         float targetSpeed = sprinting ? sprintSpeed : walkSpeed;
         Vector2 targetVelocity = moveInput * targetSpeed;
         rb.linearVelocity = Vector2.MoveTowards(

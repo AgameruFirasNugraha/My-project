@@ -26,7 +26,7 @@ public class Chapter2Intro : MonoBehaviour
         yield return new WaitForSecondsRealtime(3f);
 
         introText.text =
-            "No one’s coming. I’ll clear the ground floor, find a key, and get upstairs. One room at a time.";
+            "Okay… okay. Breathe.\nJust the ground floor. Check the rooms. Find the key. Then I can get upstairs.\nOne room at a time.";
 
     if (radioAudio != null && radioAudio.clip != null)
     {
@@ -38,7 +38,7 @@ public class Chapter2Intro : MonoBehaviour
         yield return new WaitForSecondsRealtime(4f);
     }
 
-        introText.text = "OBJECTIVE\nClear the ground-floor rooms.\nFind the stairwell key.";
+        introText.text = "OBJECTIVE\nSearch the ground-floor rooms.\nFind the stairwell key.\nReach the upper floor.";
         yield return new WaitForSecondsRealtime(3f);
 
         SceneManager.LoadScene(nextSceneName);

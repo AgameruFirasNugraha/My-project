@@ -813,7 +813,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 9f3f1380ffed1ab4887d3737996a4b00, type: 3}
+  m_Resource: {fileID: 8300000, guid: 033f2cfc0dc3fed4a8fcb90a4900c15d, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -913,7 +913,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Chapter2Intro
   overlay: {fileID: 649838321}
   introText: {fileID: 1993653821}
-  radioAudio: {fileID: 0}
+  radioAudio: {fileID: 1704393277}
   nextSceneName: Map Inside
 --- !u!1 &1800646093
 GameObject:
