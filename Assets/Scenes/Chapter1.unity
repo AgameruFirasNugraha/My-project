@@ -815,7 +815,7 @@ MonoBehaviour:
   overlay: {fileID: 649838321}
   introText: {fileID: 1993653821}
   radioAudio: {fileID: 1704393277}
-  nextSceneName: Game
+  nextSceneName: Map Outside
 --- !u!82 &1704393277
 AudioSource:
   m_ObjectHideFlags: 0

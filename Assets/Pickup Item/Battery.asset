@@ -12,8 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fab24deeddd8c346a83e5cd58812177, type: 3}
   m_Name: Battery
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  itemName: 
+  itemName: Battery
+  description: A spare battery for your flashlight. Click it in the backpack to use it.
   icon: {fileID: 21300000, guid: 9efdd9939cd1564468c5f233a465653a, type: 3}
   color: {r: 1, g: 0.9803922, b: 0.9803922, a: 1}
   healAmount: 0
   batteryAmount: 50
+  isMagazine: 0
+  magazineRounds: 12
