@@ -629,6 +629,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 706911811692876275, guid: 933ed982af588054b88ea4a5252eb470, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 706911811692876275, guid: 933ed982af588054b88ea4a5252eb470, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 706911811692876275, guid: 933ed982af588054b88ea4a5252eb470, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 138
+      objectReference: {fileID: 0}
+    - target: {fileID: 706911811692876275, guid: 933ed982af588054b88ea4a5252eb470, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -175
+      objectReference: {fileID: 0}
     - target: {fileID: 1149970337273936641, guid: 933ed982af588054b88ea4a5252eb470, type: 3}
       propertyPath: m_Name
       value: PlayerSystem
@@ -681,10 +697,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7159958258949918113, guid: 933ed982af588054b88ea4a5252eb470, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3508436971927216214, guid: 933ed982af588054b88ea4a5252eb470, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1789103892}
   m_SourcePrefab: {fileID: 100100000, guid: 933ed982af588054b88ea4a5252eb470, type: 3}
 --- !u!1 &38718359
 GameObject:
@@ -17812,7 +17835,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &619394801
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58617,7 +58640,25 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
---- !u!1 &1800241232
+--- !u!1 &1789103882 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3508436971927216214, guid: 933ed982af588054b88ea4a5252eb470, type: 3}
+  m_PrefabInstance: {fileID: 23743358}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1789103892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789103882}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e92f3af432651e84eaaaca93455381cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HollowHill.HHPlayerHooks
+  interactRadius: 1.1
+--- !u!1 &1798645633
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -91276,3 +91317,5 @@ SceneRoots:
   - {fileID: 385861909}
   - {fileID: 10635669}
   - {fileID: 1608242514}
+  - {fileID: 2088161629}
+  - {fileID: 23743358}

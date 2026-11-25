@@ -58,11 +58,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8287058380845444729, guid: 3c6407ebc6a746c4a932aed0321449ae, type: 3}
       propertyPath: m_Name
-      value: enemy1 Variant
+      value: enemy3 variant
       objectReference: {fileID: 0}
     - target: {fileID: 8287058380845444729, guid: 3c6407ebc6a746c4a932aed0321449ae, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9020093012468963524, guid: 3c6407ebc6a746c4a932aed0321449ae, type: 3}
+      propertyPath: m_Size.x
+      value: 1.9867755
+      objectReference: {fileID: 0}
+    - target: {fileID: 9020093012468963524, guid: 3c6407ebc6a746c4a932aed0321449ae, type: 3}
+      propertyPath: m_Size.y
+      value: 2.5011063
+      objectReference: {fileID: 0}
+    - target: {fileID: 9020093012468963524, guid: 3c6407ebc6a746c4a932aed0321449ae, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.00434345
+      objectReference: {fileID: 0}
+    - target: {fileID: 9020093012468963524, guid: 3c6407ebc6a746c4a932aed0321449ae, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.01036787
       objectReference: {fileID: 0}
     - target: {fileID: 9020093012468963524, guid: 3c6407ebc6a746c4a932aed0321449ae, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.x
