@@ -78,3 +78,8 @@ public class PlayerHealth : MonoBehaviour
         damageFlash.color = c;
     }
 }
+
+public interface IDamageable
+{
+    void TakeDamage(float amount);
+}
